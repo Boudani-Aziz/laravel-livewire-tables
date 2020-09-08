@@ -1,0 +1,16 @@
+### OSX Vendor Configs ###
+.DS_Store
+*._DS_Store
+._.DS_Store
+*._
+._*
+._.*
+Thumbs.db
+*.sublime-workspace
+.idea/*
+/.idea/*
+.phpintel/*
+/.phpintel/*
+/.vscode
+.phpunit.result.cache
+.php_cs.cache
